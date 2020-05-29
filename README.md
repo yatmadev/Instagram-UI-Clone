@@ -10,12 +10,12 @@ It has just 3 screens Splash Screen, Posts Screen and Profile Screen. You'll fin
 
 <img
 		width="225"
+		padding-right:50px
 		alt="Splash"
 		src="https://user-images.githubusercontent.com/57555870/83265587-57bcee80-a1df-11ea-9a4d-d71cc8116734.png">
 <img
 		width="225"
 		alt="Posts"
-		padding-right:10px
 		src="https://user-images.githubusercontent.com/57555870/83265597-5b507580-a1df-11ea-9e94-927959dd87ad.png">
 <img
 		width="225"
