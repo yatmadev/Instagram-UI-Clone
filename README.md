@@ -4,7 +4,7 @@
 
 It has just 3 screens Splash Screen, Posts Screen and Profile Screen. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
 
-## Note: This is just a UI which consists of only 2 pages.
+## Note: This is just a UI which consists of only 3 pages.
 
 ## Screenshots
 
