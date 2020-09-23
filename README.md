@@ -9,15 +9,15 @@ It has just 3 screens Splash Screen, Posts Screen and Profile Screen. You'll fin
 ## Screenshots
 
 <img
-		width="290"
+		width="270"
 		alt="Splash"
 		src="https://user-images.githubusercontent.com/57555870/83265587-57bcee80-a1df-11ea-9a4d-d71cc8116734.png">
 <img
-		width="290"
+		width="270"
 		alt="Posts"
 		src="https://user-images.githubusercontent.com/57555870/83265597-5b507580-a1df-11ea-9e94-927959dd87ad.png">
 <img
-		width="290"
+		width="270"
 		alt="Profiles"
 		src="https://user-images.githubusercontent.com/57555870/83265618-5f7c9300-a1df-11ea-9b3e-a15ddce4d626.png">
 
